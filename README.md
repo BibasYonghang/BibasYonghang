@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bibas Yonghang
 
-A passionate developer from Nepal, building real-world projects and leveling up my skills in frontend and full-stack development.  
+A passionate developer from Nepal, building real-world projects and leveling up my skills in full-stack development.  
 
 🚀 **Currently working on:** TravelMitra – a travel platform connecting travelers with guides and experiences.  
 
