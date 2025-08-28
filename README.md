@@ -6,7 +6,7 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=BibasYonghang.BibasYonghang)
 
 ## 🛠 Tech Stack
 
