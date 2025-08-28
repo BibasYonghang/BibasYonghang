@@ -6,7 +6,8 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 
 ---
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=BibasYonghang.BibasYonghang)
+![Profile Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BibasYonghang/BibasYonghang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)
+
 
 ## 🛠 Tech Stack
 
