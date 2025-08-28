@@ -6,6 +6,8 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 
 ---
 
+![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+
 ## 🛠 Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
