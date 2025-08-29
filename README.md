@@ -25,7 +25,7 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 
 ## 🌍 Connect with Me
 
-[Portfolio](https://my-portfolio-frontend-bay.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bibas-yonghang-9782ba24b/)
+[Portfolio](https://bibas-portfolio-bay.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bibas-yonghang-9782ba24b/)
 
 ---
 
