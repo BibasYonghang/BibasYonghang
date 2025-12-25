@@ -4,13 +4,6 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 
 🚀 **Currently working on:** TravelMitra – a travel platform connecting travelers with guides and experiences.  
 
-## 🏆 GitHub Achievements
-
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-
-
 ---
 
 ## 🛠 Tech Stack
