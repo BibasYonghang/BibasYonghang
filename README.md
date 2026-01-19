@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Bibas Yonghang
 
-A passionate developer from Nepal, building real-world projects and leveling up my skills in full-stack development.  
-
-🚀 **Currently working on:** TravelMitra – a travel platform connecting travelers with guides and experiences.  
+A passionate full-stack MERN developer from Nepal, building real-world applications with clean code, modern UI, and scalable backend solutions.  
+I focus on creating end-to-end solutions that solve real problems while continuously improving my skills in React, Node.js, Express, and MongoDB.
 
 ---
 
@@ -15,11 +14,43 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Render](https://img.shields.io/badge/Render-gray?style=for-the-badge&logo=render&logoColor=blue)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-gray?style=for-the-badge&logo=render&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+## 🚀 Projects Highlights
+
+### **TravelMitra** – Full-Stack Travel Platform
+A MERN-based application connecting travelers with local guides and experiences.  
+- **Frontend:** React, Tailwind, Vite  
+- **Backend:** Node.js, Express, MongoDB  
+- **Features:** User authentication, listings, bookings, role-based access  
+- **Deployment:** Vercel (frontend), Render (backend)  
+- **GitHub:** [Frontend Repo](https://github.com/BibasYonghang/travel-mitra-frontend) | [Backend Repo](https://github.com/BibasYonghang/travel-mitra-backend)
+
+### **Swasthyasewa** – Healthcare Appointment Platform
+A full-stack MERN app for booking healthcare appointments.  
+- **Features:** User registration, appointments scheduling, admin dashboard, notifications  
+- **GitHub:** [Frontend Repo](https://github.com/BibasYonghang/swasthyasewa-frontend) | [Backend Repo](https://github.com/BibasYonghang/swasthyasewa-backend)
+
+### **Hamro Bazzar** – E-commerce Platform
+An online marketplace for buying and selling products.  
+- **Features:** Product catalog, cart, checkout, admin panel, authentication  
+- **GitHub:** [Frontend Repo](https://github.com/BibasYonghang/hamro-bazzar-frontend) | [Backend Repo](https://github.com/BibasYonghang/hamro-bazzar-backend)
+
+---
+
+## 🌟 What I Do
+- Build **full-stack MERN applications** from scratch  
+- Create **responsive and modern UI** using React & Tailwind  
+- Implement **RESTful APIs** with Node.js & Express  
+- Work with **NoSQL databases (MongoDB)**  
+- Deploy apps using **Vercel / Render / GitHub Pages**  
+- Write **clean, modular, and maintainable code**  
+- Continuously **learn new tools, frameworks, and best practices**
 
 ---
 
@@ -32,5 +63,4 @@ A passionate developer from Nepal, building real-world projects and leveling up 
 ## 📊 GitHub Stats
 
 ![Bibas Yonghang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibasYonghang&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibasYonghang&layout=compact&theme=radical)
