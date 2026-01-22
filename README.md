@@ -23,7 +23,7 @@ I focus on creating end-to-end solutions that solve real problems while continuo
 
 ---
 
-## 🚀 Projects Highlights
+## Projects Highlights
 
 ### **TravelMitra** – Full-Stack Travel Platform
 A MERN-based application connecting travelers with local guides and experiences.  
