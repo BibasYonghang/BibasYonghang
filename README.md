@@ -56,7 +56,7 @@ An online marketplace for buying and selling products.
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect With Me
 
 [Portfolio](https://new-portfolio-brown-delta.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/bibas-yonghang-9782ba24b/)
 
