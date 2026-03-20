@@ -3,8 +3,7 @@
 A passionate full-stack MERN developer from Nepal, building real-world applications with clean code, modern UI, and scalable backend solutions.  
 I focus on creating end-to-end solutions that solve real problems while continuously improving my skills in React, Node.js, Express, and MongoDB.
 
-Currently Working on the FUll Stack Project Swasthya Sewaa
-
+Currently Working on my own Startup SwasthaySewa : https://swasthyasewa.vercel.app/
 ---
 
 ## 🛠 Tech Stack
