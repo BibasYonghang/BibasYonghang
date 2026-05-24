@@ -67,10 +67,7 @@ An online marketplace for buying and selling products.
 ## 📊 My Coding Stats
 
 <p align="center">
-
- ![LeetCode Stats](https://leetcard.jacoblin.cool/johndoe123?theme=dark&font=baloo&extension=activity)
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/BibasYongang)
 </p>
 
 
