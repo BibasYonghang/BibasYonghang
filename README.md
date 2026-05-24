@@ -70,14 +70,13 @@ An online marketplace for buying and selling products.
 
   <img src="https://leetcard.jacoblin.cool/BibasYongang?theme=dark&ext=heatmap" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
 
 </p>
 
+
 ## 📊 GitHub Stats
 
-![Bibas Yonghang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibasYonghang&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibasYonghang&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibasYongang&show_icons=true&theme=radical)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibasYongang&layout=compact&theme=radical)
 
