@@ -64,10 +64,15 @@ An online marketplace for buying and selling products.
 
 ---
 
-## My Coding Profiles
+## 📊 My Coding Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/BibasYongang)
+<p align="center">
 
+  <img src="https://leetcard.jacoblin.cool/BibasYongang?theme=dark&ext=heatmap" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+
+</p>
 
 ## 📊 GitHub Stats
 
