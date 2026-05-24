@@ -66,9 +66,7 @@ An online marketplace for buying and selling products.
 
 ## 📊 LeetCode Stats
 
-<p align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/BibasYongang?theme=unicorn&ext=heatmap)
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/BibasYongang)
 
 
 ## 📊 GitHub Stats
