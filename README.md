@@ -71,10 +71,6 @@ An online marketplace for buying and selling products.
 
 ## 📊 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BibasYonghang&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BibasYonghang&layout=compact&theme=radical" />
-</p>
+
