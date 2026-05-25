@@ -70,14 +70,6 @@ Here are two public projects available on GitHub:
 
 A full-stack MERN platform connecting travelers with local guides and experiences.
 
-### Features
-- Authentication & Authorization
-- Booking Management
-- Role-Based Access Control
-- RESTful APIs
-- Responsive Modern UI
-- Scalable Backend Architecture
-
 ### Tech
 React • Node.js • Express • MongoDB • TailwindCSS
 
@@ -90,15 +82,6 @@ React • Node.js • Express • MongoDB • TailwindCSS
 ## 🛒 Hamro Bazzar — Full-Stack E-Commerce Platform
 
 A scalable e-commerce marketplace platform with modern commerce architecture.
-
-### Features
-- Authentication System
-- Product Management
-- Shopping Cart Workflow
-- Checkout System
-- Admin Dashboard
-- RESTful APIs
-- Secure Backend Architecture
 
 ### GitHub
 - Frontend: https://github.com/BibasYonghang/hamro-bazzar-frontend
