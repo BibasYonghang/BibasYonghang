@@ -1,20 +1,15 @@
 # 👋 Hi, I’m Bibas Yonghang
 
-A Full-Stack AI Engineer from Nepal focused on building scalable, AI-powered web applications with modern architectures, secure backend systems, and production-ready user experiences.
+A Full-Stack AI Engineer from Nepal focused on building scalable, secure, and AI-powered web applications with modern architectures and production-ready systems.
 
-I specialize in developing end-to-end platforms using the MERN stack while integrating modern AI capabilities such as RAG systems, AI agents, workflow orchestration, and intelligent automation into real-world applications.
+I specialize in developing end-to-end applications using the MERN stack while integrating modern AI capabilities such as RAG systems, AI agents, workflow orchestration, and intelligent automation into real-world products.
 
-Currently focused on:
-- AI-powered application architecture
-- RAG (Retrieval-Augmented Generation)
-- Multi-Agent Orchestration
-- Scalable backend systems
-- Authentication & Security
-- Payment gateway integrations
-- System design & performance optimization
+I enjoy combining software engineering principles with AI to build performant, scalable, and user-focused applications.
 
-Building my startup:
-### 🚀 SwasthyaSewa
+Currently exploring advanced AI infrastructure, distributed systems, and next-generation intelligent application architectures.
+
+### 🚀 Building
+## SwasthyaSewa
 https://swasthyasewa.vercel.app/
 
 ---
@@ -22,17 +17,18 @@ https://swasthyasewa.vercel.app/
 # 🧠 Core Expertise
 
 - Full-Stack MERN Development
-- AI-Powered Web Applications
-- REST APIs & Backend Architecture
-- Authentication & Authorization
-- RAG Pipelines & Vector Search
+- AI-Powered Application Development
+- RAG (Retrieval-Augmented Generation)
 - AI Agents & Workflow Automation
 - Multi-Agent Orchestration
-- Scalable System Design
-- Database Modeling & Optimization
-- Secure API Development
-- Payment Gateway Integration
-- Cloud Deployment & DevOps Basics
+- Authentication & Authorization Systems
+- REST API Architecture
+- Payment Gateway Integrations
+- Scalable Backend Systems
+- Secure Web Application Development
+- Database Design & Optimization
+- Performance Optimization
+- Clean & Modular Architecture
 
 ---
 
@@ -44,19 +40,21 @@ https://swasthyasewa.vercel.app/
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Backend
+## Backend & Infrastructure
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## Database & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-gray?style=for-the-badge&logo=render&logoColor=blue)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-## AI & Modern Development
+## AI & Modern Engineering
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-gray?style=for-the-badge&logo=render&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -65,15 +63,15 @@ https://swasthyasewa.vercel.app/
 
 ## 🌍 TravelMitra — AI-Ready Travel Platform
 
-A scalable MERN-based travel platform connecting travelers with local experiences and guides.
+A scalable MERN-based travel platform connecting travelers with local guides and experiences.
 
 ### Features
 - Authentication & Authorization
 - Booking Management
 - Role-Based Access Control
-- Responsive UI
 - RESTful APIs
 - Scalable Backend Architecture
+- Responsive Modern UI
 
 ### Tech
 React • Node.js • Express • MongoDB • TailwindCSS
@@ -84,20 +82,20 @@ React • Node.js • Express • MongoDB • TailwindCSS
 
 ---
 
-## 🏥 SwasthyaSewa — Healthcare Appointment Platform
+## 🏥 SwasthyaSewa — Intelligent Healthcare Platform
 
-A modern healthcare platform designed for appointment scheduling and healthcare service management.
+A modern healthcare platform focused on appointment scheduling, healthcare workflows, and scalable service management.
 
 ### Features
-- Secure Authentication
+- Secure Authentication System
 - Appointment Scheduling
 - Admin Dashboard
 - Notification System
-- Scalable API Structure
-- Clean Modular Architecture
+- Modular Backend Architecture
+- Scalable API Design
 
 ### Vision
-Expanding toward AI-powered healthcare assistance and intelligent patient workflows.
+Building toward AI-powered healthcare workflows and intelligent healthcare assistance systems.
 
 ### GitHub
 - Frontend: https://github.com/BibasYonghang/swasthyasewa-frontend
@@ -107,15 +105,15 @@ Expanding toward AI-powered healthcare assistance and intelligent patient workfl
 
 ## 🛒 Hamro Bazzar — Full-Stack E-Commerce Platform
 
-An online marketplace platform with modern commerce functionality.
+A scalable e-commerce marketplace platform with modern commerce architecture.
 
 ### Features
-- Authentication System
+- Authentication & Authorization
 - Product Management
-- Shopping Cart
+- Shopping Cart System
 - Checkout Workflow
-- Admin Panel
-- Scalable Backend APIs
+- Admin Dashboard
+- RESTful APIs
 
 ### GitHub
 - Frontend: https://github.com/BibasYonghang/hamro-bazzar-frontend
@@ -125,18 +123,18 @@ An online marketplace platform with modern commerce functionality.
 
 # 🔐 Engineering Focus
 
-I’m deeply interested in building production-grade systems with focus on:
+I focus on building production-grade applications with strong emphasis on:
 
 - Scalability
 - Security
-- Performance Optimization
-- Clean Architecture
-- API Design
 - AI Integrations
-- Intelligent Automation
+- System Design
+- Performance Optimization
 - Developer Experience
+- Clean Architecture
+- Intelligent Automation
 
-I enjoy combining software engineering principles with modern AI systems to build practical, real-world products.
+Passionate about building the next generation of AI-powered software products and scalable digital platforms.
 
 ---
 
@@ -164,14 +162,13 @@ https://www.linkedin.com/in/bibas-yonghang-9782ba24b/
 
 ---
 
-# ⚡ Current Learning Journey
+# ⚡ Currently Exploring
 
-- Advanced Backend Architecture
-- AI Agents & Orchestration
-- RAG Pipelines
-- Vector Databases
-- System Design
-- Payment Systems
-- Web Security Best Practices
-- Scalable SaaS Engineering
-- Full-Stack AI Product Development
+- Advanced AI Infrastructure
+- Distributed Systems
+- High-Performance Backend Architectures
+- Agentic AI Systems
+- Advanced System Design
+- Cloud-Native Engineering
+- Scalable SaaS Architectures
+- Intelligent Product Engineering
