@@ -56,7 +56,7 @@ Currently exploring distributed systems, advanced AI infrastructure, cloud-nativ
 
 ---
 
-# 🚀 Public Project Showcase
+# Public Project Showcase
 
 Most of my advanced and production-level projects are private due to real-world usage, architecture decisions, business logic, and ongoing development.
 
