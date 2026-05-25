@@ -141,14 +141,6 @@ https://www.linkedin.com/in/bibas-yonghang-9782ba24b/
 
 ---
 
-# 📈 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BibasYonghang&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BibasYonghang&layout=compact&theme=radical" />
-
----
-
 # ⚡ Currently Exploring
 
 - Distributed Systems
