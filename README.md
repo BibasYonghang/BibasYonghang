@@ -1,136 +1,120 @@
-# 👋 Hi, I’m Bibas Yonghang
+👋 Hi, I'm Bibas Yonghang
 
-A Full-Stack AI Engineer from Nepal focused on building scalable, secure, and production-ready applications with modern architectures and intelligent systems.
+Full-Stack AI Engineer from Nepal focused on building scalable, secure, and production-ready applications powered by modern software architecture and intelligent systems.
 
-I specialize in developing end-to-end applications using the MERN stack while integrating advanced backend architectures, automation workflows, scalable APIs, authentication systems, payment integrations, and modern AI-powered capabilities into real-world products.
+Specialized in developing end-to-end applications using TypeScript, JavaScript, Next.js, React, Node.js, SQL & NoSQL databases, while integrating advanced backend architectures, authentication & authorization, payment systems, AI workflows, and scalable APIs into real-world products.
 
-Passionate about building high-performance systems with strong focus on scalability, security, server cost optimization, clean architecture, and real-world problem solving.
+Passionate about solving real business problems through technology by building high-performance systems with a strong focus on scalability, security, clean architecture, maintainability, and developer experience.
 
-Currently exploring distributed systems, advanced AI infrastructure, cloud-native architectures, and next-generation intelligent applications.
+Currently exploring distributed systems, advanced AI infrastructure, cloud-native architectures, system design, and next-generation AI-native applications.
 
----
+🧠 Core Expertise
+Full-Stack Application Development
+AI-Powered Applications
+Large Language Models (LLMs)
+Retrieval-Augmented Generation (RAG)
+AI Agents & Intelligent Workflows
+Multi-Agent Orchestration
+Model Context Protocol (MCP)
+REST API Design
+Authentication & Authorization
+Payment Gateway Integration
+Scalable Backend Architecture
+System Design
+SQL & NoSQL Database Design
+Performance Optimization
+Server Cost Optimization
+Secure Web Application Development
+CI/CD & Deployment
+Clean & Modular Architecture
 
-# 🧠 Core Expertise
+🛠 Tech Stack
+Frontend
+TypeScript
+JavaScript (ES6+)
+Next.js
+React
+Tailwind CSS
+HTML5
+CSS3
+Backend
+Node.js
+Express.js
+REST APIs
+Authentication (JWT, OAuth)
+Authorization (RBAC)
+AI Integrations
+Databases
+PostgreSQL
+MySQL
+MongoDB
+Redis
+AI Engineering
+Large Language Models (LLMs)
+RAG
+AI Agents
+Multi-Agent Systems
+MCP
+AI Workflow Automation
+DevOps & Infrastructure
+Docker
+Git
+GitHub Actions
+CI/CD
+Vercel
+Render
 
-- Full-Stack MERN Development
-- AI-Powered Applications
-- RAG (Retrieval-Augmented Generation)
-- AI Agents & Workflow Automation
-- Multi-Agent Orchestration
-- REST API Architecture
-- Authentication & Authorization Systems
-- Payment Gateway Integrations
-- Scalable Backend Systems
-- Secure Web Application Development
-- CI/CD Pipelines
-- Server Cost Optimization
-- Database Design & Optimization
-- Performance Optimization
-- Clean & Modular Architecture
+🚀 Featured Projects
 
----
+Most advanced and production-oriented projects remain private because they contain proprietary business logic, architecture decisions, AI workflows, and ongoing development.
 
-# 🛠 Tech Stack
+During interviews or technical discussions, happy to walk through system architecture, scalability strategies, authentication flows, AI integrations, backend workflows, database design, performance optimization, and engineering decisions.
 
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🌍 TravelMitra
 
-## Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Scalable full-stack travel platform connecting travelers with local guides and experiences.
 
-## DevOps, Deployment & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-gray?style=for-the-badge&logo=render&logoColor=blue)
+Tech Stack
 
----
+TypeScript • Next.js • Node.js • Express • MongoDB • Tailwind CSS
 
-# Public Project Showcase
+🛒 Hamro Bazzar
 
-Most of my advanced and production-level projects are private due to real-world usage, architecture decisions, business logic, and ongoing development.
+Production-ready e-commerce platform featuring modern commerce architecture, secure authentication, and scalable backend services.
 
-However, during interviews or technical discussions, I’m comfortable sharing my screen and explaining the architecture, scalability decisions, backend workflows, security implementations, performance optimizations, server cost reduction strategies, and system design approaches behind those projects.
+Tech Stack
 
-Here are two public projects available on GitHub:
+TypeScript • Next.js • Node.js • Express • SQL/NoSQL • Tailwind CSS
 
----
+🔐 Engineering Principles
 
-## 🌍 TravelMitra — Scalable Travel Platform
+Focused on building software that is:
 
-A full-stack MERN platform connecting travelers with local guides and experiences.
+Scalable
+Secure
+Maintainable
+Performance-Oriented
+Cost-Efficient
+AI-Native
+Developer Friendly
+Production Ready
 
-### Tech
-React • Node.js • Express • MongoDB • TailwindCSS
+Strong believer that software engineering is about solving real-world problems—not simply writing code.
 
-### GitHub
-- Frontend: https://github.com/BibasYonghang/travel-mitra-frontend
-- Backend: https://github.com/BibasYonghang/travel-mitra-backend
+Leverages AI to automate repetitive development tasks, accelerate workflows, and focus more on architecture, system design, scalability, security, and creating meaningful business impact.
 
----
+🌍 Connect
+Portfolio: https://new-portfolio-brown-delta.vercel.app/
+LinkedIn: https://www.linkedin.com/in/bibas-yonghang-9782ba24b/
 
-## 🛒 Hamro Bazzar — Full-Stack E-Commerce Platform
-
-A scalable e-commerce marketplace platform with modern commerce architecture.
-
-### GitHub
-- Frontend: https://github.com/BibasYonghang/hamro-bazzar-frontend
-- Backend: https://github.com/BibasYonghang/hamro-bazzar-backend
-
----
-
-# 🔐 Engineering Focus
-
-I focus on building production-grade systems with strong emphasis on:
-
-- Scalability
-- Security
-- Performance Optimization
-- Server Cost Reduction
-- System Design
-- AI Integrations
-- Intelligent Automation
-- Developer Experience
-- Clean Architecture
-- Infrastructure Efficiency
-
-Passionate about building modern software systems that combine strong engineering principles with intelligent and scalable architectures.
-
----
-
-# 🌍 Connect With Me
-
-## Portfolio
-https://new-portfolio-brown-delta.vercel.app/
-
-## LinkedIn
-https://www.linkedin.com/in/bibas-yonghang-9782ba24b/
-
----
-
-# 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/BibasYongang)
-
----
-
-# ⚡ Currently Exploring
-
-- Distributed Systems
-- Advanced AI Infrastructure
-- Cloud-Native Architectures
-- High-Performance Backend Systems
-- Agentic AI Systems
-- Advanced System Design
-- Scalable SaaS Architectures
-- Intelligent Product Engineering
+⚡ Currently Exploring
+Distributed Systems
+Advanced System Design
+AI Infrastructure
+Agentic AI
+Multi-Agent Architectures
+Cloud-Native Engineering
+High-Performance Backend Systems
+Scalable SaaS Architectures
+Intelligent Product Engineering
+Modern AI Development Frameworks
