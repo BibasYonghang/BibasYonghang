@@ -2,7 +2,7 @@
 
 Full-Stack AI Engineer from Nepal focused on building scalable, secure, and production-ready applications powered by modern software architecture and intelligent systems.
 
-Specialized in developing end-to-end applications using **TypeScript, JavaScript, Next.js, React, Node.js, SQL & NoSQL databases**, while integrating advanced backend architectures, authentication & authorization, payment systems, AI workflows, scalable APIs, and intelligent AI capabilities into real-world products.
+Specialized in developing end-to-end applications using **TypeScript, JavaScript, Next.js, React, Node.js, Express.Js, SQL & NoSQL databases**, while integrating advanced backend architectures, authentication & authorization, payment systems, AI workflows, scalable APIs, and intelligent AI capabilities into real-world products.
 
 Passionate about solving real business problems through technology by building high-performance systems with a strong focus on scalability, security, clean architecture, maintainability, performance optimization, and developer experience.
 
@@ -16,7 +16,6 @@ Currently exploring distributed systems, advanced AI infrastructure, cloud-nativ
 
 - Full-Stack Application Development
 - AI-Powered Applications
-- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - Multi-Agent Orchestration
@@ -57,22 +56,19 @@ Currently exploring distributed systems, advanced AI infrastructure, cloud-nativ
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-2C3E50?style=for-the-badge)
 
 ---
 
 ## Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL(SQL Database)](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB(No SQL Database)](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis(For Caching)](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## AI Engineering
 
-- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - Multi-Agent Orchestration
@@ -83,7 +79,6 @@ Currently exploring distributed systems, advanced AI infrastructure, cloud-nativ
 
 ## DevOps, Deployment & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge)
@@ -106,7 +101,7 @@ A full-stack travel platform connecting travelers with local guides and experien
 
 ### Tech Stack
 
-TypeScript • Next.js • Node.js • Express • MongoDB • Tailwind CSS
+Javascript • React.js • Node.js • Express • MongoDB • Tailwind CSS
 
 ### GitHub
 
@@ -121,7 +116,7 @@ A scalable e-commerce platform featuring secure authentication, modern commerce 
 
 ### Tech Stack
 
-TypeScript • Next.js • Node.js • Express • SQL & NoSQL • Tailwind CSS
+Javascript • React.js • Node.js • Express • MongoDB • Tailwind CSS
 
 ### GitHub
 
@@ -140,12 +135,10 @@ Focused on building software that is:
 - Performance-Oriented
 - Cost-Efficient
 - AI-Native
-- Developer Friendly
+- User Friendly
 - Production Ready
 
-Engineering is about solving meaningful real-world problems—not simply writing code.
-
-AI is leveraged to automate repetitive development tasks, accelerate engineering workflows, and allow greater focus on system design, architecture, scalability, security, and delivering measurable business impact.
+Engineering is about solving meaningful real-world problems—not simply writing code and AI is leveraged to automate repetitive development tasks, accelerate engineering workflows, and allow greater focus on system design, architecture, scalability, security, and delivering measurable business impact.
 
 ---
 
