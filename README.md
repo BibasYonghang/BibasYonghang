@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bibas Yonghang
 
-Full-Stack AI Engineer from Nepal focused on building scalable, secure, and production-ready applications powered by modern software architecture and intelligent systems.
+Full-Stack AI Engineer from Nepal focused on building responsive, scalable, secure, and production-ready applications powered by modern software architecture and intelligent systems.
 
 Specialized in developing end-to-end applications using **TypeScript, JavaScript, Next.js, React, Node.js, Express.Js, SQL & NoSQL databases**, while integrating advanced backend architectures, authentication & authorization, payment systems, AI workflows, scalable APIs, and intelligent AI capabilities into real-world products.
 
