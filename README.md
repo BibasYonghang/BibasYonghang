@@ -74,6 +74,7 @@ Currently exploring distributed systems, advanced AI infrastructure, cloud-nativ
 - Multi-Agent Orchestration
 - Model Context Protocol (MCP)
 - AI Workflow Automation
+- Personal Custom Chatbots
 
 ---
 
