@@ -113,7 +113,7 @@ Javascript • React.js • Node.js • Express • MongoDB • Tailwind CSS
 
 ## 🛒 Hamro Bazzar — Full-Stack E-Commerce Platform
 
-A scalable e-commerce platform featuring secure authentication, modern commerce architecture and production-ready backend services.
+A scalable e-commerce platform featuring secure authentication, modern commerce architecture and production ready backend services.
 
 ### Tech Stack
 
@@ -139,7 +139,7 @@ Focused on building software that is:
 - User Friendly
 - Production Ready
 
-Engineering is about solving meaningful real-world problems—not simply writing code and AI is leveraged to automate repetitive development tasks, accelerate engineering workflows, and allow greater focus on system design, architecture, scalability, security and delivering measurable business impact.
+Engineering is about solving meaningful real-world problems not simply writing code and AI is leveraged to automate repetitive development tasks, accelerate engineering workflows, and allow greater focus on system design, architecture, scalability, security and delivering measurable business impact.
 
 ---
 
